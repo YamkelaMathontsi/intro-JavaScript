@@ -1,0 +1,10 @@
+//   console.log("Hello World");
+//   console.log(10 + 2);
+//   alert("This a an alert box");
+let name = "Yamkela";
+let age = 20;
+document.write("I am " + age + " years old" + "<br/>");
+document.write("<br/>");
+document.write("My name is " + name + "<br/>");
+document.write("<br/>");
+document.write("We are <b>learning</b>" + "<br/>");
